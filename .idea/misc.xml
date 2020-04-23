@@ -10,7 +10,6 @@
         <option value="$PROJECT_DIR$/demo-config/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/demo-thymeleaf/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-i18n/pom.xml" />
         <option value="$PROJECT_DIR$/demo-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/demo-crossorigin/pom.xml" />
         <option value="$PROJECT_DIR$/demo-testcross/pom.xml" />

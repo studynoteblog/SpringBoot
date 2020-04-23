@@ -9,7 +9,6 @@
         <module name="demo-config" />
         <module name="demo-crossorigin" />
         <module name="demo-exception" />
-        <module name="demo-i18n" />
         <module name="demo-swagger" />
         <module name="demo-testcross" />
         <module name="demo-thymeleaf" />

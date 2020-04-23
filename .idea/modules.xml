@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/demo-config/demo-config.iml" filepath="$PROJECT_DIR$/demo-config/demo-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-crossorigin/demo-crossorigin.iml" filepath="$PROJECT_DIR$/demo-crossorigin/demo-crossorigin.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-exception/demo-exception.iml" filepath="$PROJECT_DIR$/demo-exception/demo-exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo-i18n/demo-i18n.iml" filepath="$PROJECT_DIR$/demo-i18n/demo-i18n.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-swagger/demo-swagger.iml" filepath="$PROJECT_DIR$/demo-swagger/demo-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-testcross/demo-testcross.iml" filepath="$PROJECT_DIR$/demo-testcross/demo-testcross.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo-thymeleaf/demo-thymeleaf.iml" filepath="$PROJECT_DIR$/demo-thymeleaf/demo-thymeleaf.iml" />
