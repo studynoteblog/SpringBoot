@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-config/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-i18n/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-crossorigin/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-testcross/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-exception/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

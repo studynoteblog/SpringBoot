@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+</head>
+<body>
+<div id="contentDiv"></div>
+<div id="deleteResult"></div>
+<div id="test"></div>
+<input type="button" value="测试数据" onclick="getString()"/>
+</body>
+<script>
+
+    function getString() {
+        $.ajax({
+            url:'http://localhost:8092/testCorss/getString',
+            type:'get',
+            data:{},
+            success:function (msg) {
+                $("#test").html(msg);
+            }
+        })
+    }
+</script>
+</html>
