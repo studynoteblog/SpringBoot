@@ -1,13 +1,13 @@
-package com.example.demoi18n;
+package com.example.demoexception;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoI18nApplication {
+public class DemoExceptionApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoI18nApplication.class, args);
+        SpringApplication.run(DemoExceptionApplication.class, args);
     }
 
 }

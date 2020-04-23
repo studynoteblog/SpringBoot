@@ -1,10 +1,10 @@
-package com.example.demoi18n;
+package com.example.demoexception;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoI18nApplicationTests {
+class DemoExceptionApplicationTests {
 
     @Test
     void contextLoads() {
