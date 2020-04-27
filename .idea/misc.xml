@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/demo-testcross/pom.xml" />
         <option value="$PROJECT_DIR$/demo-upload/pom.xml" />
         <option value="$PROJECT_DIR$/demo-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-interceptor/pom.xml" />
       </list>
     </option>
   </component>
