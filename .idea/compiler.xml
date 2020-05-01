@@ -9,6 +9,7 @@
         <module name="demo-config" />
         <module name="demo-crossorigin" />
         <module name="demo-exception" />
+        <module name="demo-filter" />
         <module name="demo-interceptor" />
         <module name="demo-swagger" />
         <module name="demo-testcross" />
@@ -22,6 +23,7 @@
       <module name="demo-config" target="1.8" />
       <module name="demo-crossorigin" target="1.8" />
       <module name="demo-exception" target="1.8" />
+      <module name="demo-filter" target="1.8" />
       <module name="demo-i18n" target="1.8" />
       <module name="demo-interceptor" target="1.8" />
       <module name="demo-json" target="1.8" />

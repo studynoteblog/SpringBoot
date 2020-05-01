@@ -4,8 +4,8 @@
     <file url="file://$PROJECT_DIR$/demo-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-crossorigin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-filter" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-interceptor" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/demo-json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-swagger" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-testcross" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-thymeleaf" charset="UTF-8" />
