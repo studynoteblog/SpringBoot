@@ -2,15 +2,29 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/demo-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-crossorigin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-crossorigin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-email/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-exception" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-exception/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-filter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-log/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-swagger/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-testcross" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-testcross/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-upload/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis/src/main/java" charset="UTF-8" />
   </component>
 </project>

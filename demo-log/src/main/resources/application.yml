@@ -1,0 +1,36 @@
+
+server:
+  port: 8098
+logging:
+  level:
+    com:
+      example:
+        demolog: debug
+  file:
+    path: /spring/test/
+    name: D:/test/log/test123.log
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss}----- 这是全栈学习笔记 [%thread] %-5level %logger{50} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss}----- 这是全栈学习笔记 [%thread] %-5level %logger{50} - %msg%n"
+  config: classpath:static/logback.xml  #默认位置在resources文件夹下面
+
+#  file: test1.log
+
+#  d表示日期时间，        
+#  %thread表示线程名，        
+#  %‐5level：级别从左显示5个字符宽度        
+#  %logger{50} 表示logger名字最长50个字符，否则按照句点分割。         
+#  %msg：日志消息，        
+#  %n是换行符
+
+#
+# path ,name属性不能同时使用，如果两个同时配置，则只有name生效，
+# path ：/spring/test/    在项目运行的根目录，比如D盘，下面生成spring/test/spring.log文件
+# spring.log  是不指定文件名的时候默认的名字
+
+
+# name 配置之后会在项目的根路径生成一个文件，但是必须指定文件名,可以使绝对路径D:/test/log
+
+#     不能直接使用logging：level：debug/trace....打印日志，可以在下面再加上一个root
+#      设置对应的包下面的日志打印级别为debug级别，
+#      则会打印debug以及debug级别之上的日志

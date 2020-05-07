@@ -1,0 +1,44 @@
+2020-05-06 15:39:51.954  INFO 20032 --- [main] com.example.demolog.DemoLogApplication   : Starting DemoLogApplication on LAPTOP-AFEE5R2O with PID 20032 (D:\F\笔记\Springboot\code\demo-log\target\classes started by zx in D:\F\笔记\Springboot\code)
+2020-05-06 15:39:51.958 DEBUG 20032 --- [main] com.example.demolog.DemoLogApplication   : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-06 15:39:51.959  INFO 20032 --- [main] com.example.demolog.DemoLogApplication   : No active profile set, falling back to default profiles: default
+2020-05-06 15:39:52.794  INFO 20032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8098 (http)
+2020-05-06 15:39:52.800  INFO 20032 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-06 15:39:52.804  INFO 20032 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-06 15:39:52.870  INFO 20032 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-06 15:39:52.870  INFO 20032 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 858 ms
+2020-05-06 15:39:53.008  INFO 20032 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-06 15:39:53.119  INFO 20032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8098 (http) with context path ''
+2020-05-06 15:39:53.121  INFO 20032 --- [main] com.example.demolog.DemoLogApplication   : Started DemoLogApplication in 1.531 seconds (JVM running for 2.169)
+2020-05-06 15:40:03.964  INFO 16348 --- [main] com.example.demolog.DemoLogApplication   : Starting DemoLogApplication on LAPTOP-AFEE5R2O with PID 16348 (D:\F\笔记\Springboot\code\demo-log\target\classes started by zx in D:\F\笔记\Springboot\code)
+2020-05-06 15:40:03.969 DEBUG 16348 --- [main] com.example.demolog.DemoLogApplication   : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-06 15:40:03.969  INFO 16348 --- [main] com.example.demolog.DemoLogApplication   : No active profile set, falling back to default profiles: default
+2020-05-06 15:40:05.108  INFO 16348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8098 (http)
+2020-05-06 15:40:05.117  INFO 16348 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-06 15:40:05.117  INFO 16348 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-06 15:40:05.219  INFO 16348 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-06 15:40:05.220  INFO 16348 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1180 ms
+2020-05-06 15:40:05.436  INFO 16348 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-06 15:40:05.597  INFO 16348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8098 (http) with context path ''
+2020-05-06 15:40:05.600  INFO 16348 --- [main] com.example.demolog.DemoLogApplication   : Started DemoLogApplication in 1.996 seconds (JVM running for 2.605)
+2020-05-06 15:41:34.450  INFO 11056 --- [main] com.example.demolog.DemoLogApplication   : Starting DemoLogApplication on LAPTOP-AFEE5R2O with PID 11056 (D:\F\笔记\Springboot\code\demo-log\target\classes started by zx in D:\F\笔记\Springboot\code)
+2020-05-06 15:41:34.454 DEBUG 11056 --- [main] com.example.demolog.DemoLogApplication   : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-06 15:41:34.455  INFO 11056 --- [main] com.example.demolog.DemoLogApplication   : No active profile set, falling back to default profiles: default
+2020-05-06 15:41:35.390  INFO 11056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8098 (http)
+2020-05-06 15:41:35.396  INFO 11056 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-06 15:41:35.396  INFO 11056 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-06 15:41:35.462  INFO 11056 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-06 15:41:35.462  INFO 11056 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 940 ms
+2020-05-06 15:41:35.602  INFO 11056 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-06 15:41:35.716  INFO 11056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8098 (http) with context path ''
+2020-05-06 15:41:35.718  INFO 11056 --- [main] com.example.demolog.DemoLogApplication   : Started DemoLogApplication in 1.641 seconds (JVM running for 2.272)
+2020-05-06 15:42:07.776  INFO 20140 --- [main] com.example.demolog.DemoLogApplication   : Starting DemoLogApplication on LAPTOP-AFEE5R2O with PID 20140 (D:\F\笔记\Springboot\code\demo-log\target\classes started by zx in D:\F\笔记\Springboot\code)
+2020-05-06 15:42:07.787 DEBUG 20140 --- [main] com.example.demolog.DemoLogApplication   : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-06 15:42:07.788  INFO 20140 --- [main] com.example.demolog.DemoLogApplication   : No active profile set, falling back to default profiles: default
+2020-05-06 15:42:09.813  INFO 20140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8098 (http)
+2020-05-06 15:42:09.821  INFO 20140 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-06 15:42:09.822  INFO 20140 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-05-06 15:42:09.923  INFO 20140 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-06 15:42:09.924  INFO 20140 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2010 ms
+2020-05-06 15:42:10.144  INFO 20140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-06 15:42:10.308  INFO 20140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8098 (http) with context path ''
+2020-05-06 15:42:10.312  INFO 20140 --- [main] com.example.demolog.DemoLogApplication   : Started DemoLogApplication in 3.176 seconds (JVM running for 4.028)

@@ -1,0 +1,14 @@
+server:
+  port: 8099
+
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 359076197@qq.com
+    password: btrkapdlwfhlcbbf
+    properties:
+      mail:
+        smtp:
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+

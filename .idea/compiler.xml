@@ -6,27 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-config" />
-        <module name="demo-crossorigin" />
-        <module name="demo-exception" />
-        <module name="demo-filter" />
-        <module name="demo-interceptor" />
-        <module name="demo-swagger" />
         <module name="demo-testcross" />
-        <module name="demo-thymeleaf" />
-        <module name="demo-upload" />
+        <module name="demo-crossorigin" />
+        <module name="demo-config" />
         <module name="demo-web" />
+        <module name="demo-upload" />
+        <module name="demo-exception" />
         <module name="mybatis" />
+        <module name="demo-log" />
+        <module name="demo-filter" />
+        <module name="demo-swagger" />
+        <module name="demo-interceptor" />
+        <module name="demo-thymeleaf" />
+        <module name="demo-email" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo-config" target="1.8" />
       <module name="demo-crossorigin" target="1.8" />
+      <module name="demo-email" target="1.8" />
       <module name="demo-exception" target="1.8" />
       <module name="demo-filter" target="1.8" />
       <module name="demo-i18n" target="1.8" />
       <module name="demo-interceptor" target="1.8" />
       <module name="demo-json" target="1.8" />
+      <module name="demo-log" target="1.8" />
       <module name="demo-swagger" target="1.8" />
       <module name="demo-testcross" target="1.8" />
       <module name="demo-thymeleaf" target="1.8" />
@@ -34,5 +38,22 @@
       <module name="demo-web" target="1.8" />
       <module name="mybatis" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-config" options="-parameters" />
+      <module name="demo-crossorigin" options="-parameters" />
+      <module name="demo-email" options="-parameters" />
+      <module name="demo-exception" options="-parameters" />
+      <module name="demo-filter" options="-parameters" />
+      <module name="demo-interceptor" options="-parameters" />
+      <module name="demo-log" options="-parameters" />
+      <module name="demo-swagger" options="-parameters" />
+      <module name="demo-testcross" options="-parameters" />
+      <module name="demo-thymeleaf" options="-parameters" />
+      <module name="demo-upload" options="-parameters" />
+      <module name="demo-web" options="-parameters" />
+      <module name="mybatis" options="-parameters" />
+    </option>
   </component>
 </project>

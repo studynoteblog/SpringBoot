@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/demo-exception/pom.xml" />
         <option value="$PROJECT_DIR$/demo-interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/demo-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-log/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-email/pom.xml" />
       </list>
     </option>
   </component>
