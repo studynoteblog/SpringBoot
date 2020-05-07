@@ -4,8 +4,8 @@ server:
 spring:
   mail:
     host: smtp.qq.com
-    username: 359076197@qq.com
-    password: btrkapdlwfhlcbbf
+    username: 1111111@qq.com
+    password: xxxxxxxxxxx  #自己到QQ官网获取
     properties:
       mail:
         smtp:

@@ -21,8 +21,8 @@ public class MailController {
         //邮件设置
         message.setSubject("通知-今晚开会");
         message.setText("今晚7:30开会");
-        message.setTo("weixin668@139.com");
-        message.setFrom("359076197@qq.com");
+        message.setTo("11111111@139.com");
+        message.setFrom("11111111@qq.com");
         mailSender.send(message);
     }
     @RequestMapping("/mineMail")
@@ -35,8 +35,8 @@ public class MailController {
         helper.setSubject("通知-今晚开会");
         helper.setText("<b style='color:red'>今天 7:30 开会</b>",true);
 
-        helper.setTo("1357815583@qq.com");
-        helper.setFrom("359076197@qq.com");
+        helper.setTo("111111@qq.com");
+        helper.setFrom("1111111111@qq.com");
 
 
         //上传文件
