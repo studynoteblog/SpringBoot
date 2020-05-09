@@ -4,11 +4,14 @@ server:
 spring:
   mail:
     host: smtp.qq.com
-    username: 1111111@qq.com
-    password: xxxxxxxxxxx  #自己到QQ官网获取
+    username: xxxxxx@qq.com
+    password: 授权码
     properties:
       mail:
         smtp:
-          socketFactory:
-            class: javax.net.ssl.SSLSocketFactory
+#          socketFactory:
+#            class: javax.net.ssl.SSLSocketFactory
+          ssl:
+            enable :true
+    default-encoding: utf-8
 
